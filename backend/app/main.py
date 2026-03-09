@@ -1,11 +1,18 @@
+from contextlib import asynccontextmanager
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from app.core.config import settings
 from app.core.database import Base, engine
 from app.api import auth, projects, register, search, rules, candidates, lottery, apartments, reports
 
-# Create all tables
-Base.metadata.create_all(bind=engine)
+
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    # Create tables on startup (safe to call on every start — idempotent)
+    Base.metadata.create_all(bind=engine)
+    yield
+    # Cleanup on shutdown (none needed)
+
 
 app = FastAPI(
     title="Ezra VaBitaron — Affordable Housing Lottery API",
@@ -13,6 +20,7 @@ app = FastAPI(
     version="1.0.0",
     docs_url="/docs",
     redoc_url="/redoc",
+    lifespan=lifespan,
 )
 
 app.add_middleware(

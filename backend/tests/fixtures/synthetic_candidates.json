@@ -1,0 +1,273 @@
+{
+  "_comment": "Synthetic test candidates with valid Israeli ID checksums and mock מלג\"ם eligibility certificate data. For testing only.",
+  "candidates": [
+    {
+      "first_name": "Yael",
+      "last_name": "Cohen",
+      "id_number": "226705911",
+      "phone": "0521234501",
+      "email": "yael.cohen01@gmail.com",
+      "priority": "DISABLED",
+      "eligibility_certificate": {
+        "certificate_number": "EL-2024-441892",
+        "issuing_authority": "מלג\"ם — המרכז לבחינת זכאות לדיור בהישג יד",
+        "issue_date": "2025-08-15",
+        "valid_until": "2026-08-15",
+        "applicant_name_he": "יעל כהן",
+        "applicant_name_en": "Yael Cohen",
+        "id_number": "226705911",
+        "is_apartmentless": true,
+        "eligibility_confirmed": true,
+        "certificate_type": "זכאות לדיור בהישג יד",
+        "stamp": "חותמת רשמית — מלג\"ם",
+        "notes": "המבקשת מאושרת כחסרת דירה. הזכאות בתוקף לתקופה המצוינת."
+      }
+    },
+    {
+      "first_name": "Noam",
+      "last_name": "Levi",
+      "id_number": "160371175",
+      "phone": "0531234502",
+      "email": "noam.levi02@gmail.com",
+      "priority": "MILITARY_RESERVES",
+      "eligibility_certificate": {
+        "certificate_number": "EL-2025-112347",
+        "issuing_authority": "מלג\"ם — המרכז לבחינת זכאות לדיור בהישג יד",
+        "issue_date": "2025-11-20",
+        "valid_until": "2026-11-20",
+        "applicant_name_he": "נועם לוי",
+        "applicant_name_en": "Noam Levi",
+        "id_number": "160371175",
+        "is_apartmentless": true,
+        "eligibility_confirmed": true,
+        "certificate_type": "זכאות לדיור בהישג יד",
+        "stamp": "חותמת רשמית — מלג\"ם",
+        "notes": "המבקש מאושר כחסר דירה. משרת מילואים פעיל."
+      }
+    },
+    {
+      "first_name": "Tamar",
+      "last_name": "Mizrahi",
+      "id_number": "420223257",
+      "phone": "0541234503",
+      "email": "tamar.mizrahi03@gmail.com",
+      "priority": "LOCAL_RESIDENT",
+      "eligibility_certificate": {
+        "certificate_number": "EL-2025-203451",
+        "issuing_authority": "מלג\"ם — המרכז לבחינת זכאות לדיור בהישג יד",
+        "issue_date": "2025-09-10",
+        "valid_until": "2026-09-10",
+        "applicant_name_he": "תמר מזרחי",
+        "applicant_name_en": "Tamar Mizrahi",
+        "id_number": "420223257",
+        "is_apartmentless": true,
+        "eligibility_confirmed": true,
+        "certificate_type": "זכאות לדיור בהישג יד",
+        "stamp": "חותמת רשמית — מלג\"ם",
+        "notes": "המבקשת מאושרת כחסרת דירה. תושבת תל אביב-יפו."
+      }
+    },
+    {
+      "first_name": "Oren",
+      "last_name": "Peretz",
+      "id_number": "825340631",
+      "phone": "0551234504",
+      "email": "oren.peretz04@gmail.com",
+      "priority": "YOUNG_COUPLE",
+      "eligibility_certificate": {
+        "certificate_number": "EL-2025-318742",
+        "issuing_authority": "מלג\"ם — המרכז לבחינת זכאות לדיור בהישג יד",
+        "issue_date": "2026-01-05",
+        "valid_until": "2027-01-05",
+        "applicant_name_he": "אורן פרץ",
+        "applicant_name_en": "Oren Peretz",
+        "id_number": "825340631",
+        "is_apartmentless": true,
+        "eligibility_confirmed": true,
+        "certificate_type": "זכאות לדיור בהישג יד — זוג צעיר",
+        "stamp": "חותמת רשמית — מלג\"ם",
+        "notes": "המבקש ובת זוגו מאושרים כחסרי דירה. זוג צעיר."
+      }
+    },
+    {
+      "first_name": "Shira",
+      "last_name": "Biton",
+      "id_number": "129054490",
+      "phone": "0561234505",
+      "email": "shira.biton05@gmail.com",
+      "priority": "STANDARD",
+      "eligibility_certificate": {
+        "certificate_number": "EL-2025-407831",
+        "issuing_authority": "מלג\"ם — המרכז לבחינת זכאות לדיור בהישג יד",
+        "issue_date": "2025-10-22",
+        "valid_until": "2026-10-22",
+        "applicant_name_he": "שירה ביטון",
+        "applicant_name_en": "Shira Biton",
+        "id_number": "129054490",
+        "is_apartmentless": true,
+        "eligibility_confirmed": true,
+        "certificate_type": "זכאות לדיור בהישג יד",
+        "stamp": "חותמת רשמית — מלג\"ם",
+        "notes": "המבקשת מאושרת כחסרת דירה."
+      }
+    },
+    {
+      "first_name": "Amit",
+      "last_name": "Dahan",
+      "id_number": "682714043",
+      "phone": "0521234506",
+      "email": "amit.dahan06@gmail.com",
+      "priority": "DISABLED",
+      "eligibility_certificate": {
+        "certificate_number": "EL-2024-512990",
+        "issuing_authority": "מלג\"ם — המרכז לבחינת זכאות לדיור בהישג יד",
+        "issue_date": "2025-07-30",
+        "valid_until": "2026-07-30",
+        "applicant_name_he": "עמית דהן",
+        "applicant_name_en": "Amit Dahan",
+        "id_number": "682714043",
+        "is_apartmentless": true,
+        "eligibility_confirmed": true,
+        "certificate_type": "זכאות לדיור בהישג יד — נכה",
+        "stamp": "חותמת רשמית — מלג\"ם",
+        "notes": "המבקש מאושר כחסר דירה. בעל אישור נכות מביטוח לאומי."
+      }
+    },
+    {
+      "first_name": "Maya",
+      "last_name": "Avraham",
+      "id_number": "183428598",
+      "phone": "0531234507",
+      "email": "maya.avraham07@gmail.com",
+      "priority": "LOCAL_RESIDENT",
+      "eligibility_certificate": {
+        "certificate_number": "EL-2025-608124",
+        "issuing_authority": "מלג\"ם — המרכז לבחינת זכאות לדיור בהישג יד",
+        "issue_date": "2025-12-01",
+        "valid_until": "2026-12-01",
+        "applicant_name_he": "מיה אברהם",
+        "applicant_name_en": "Maya Avraham",
+        "id_number": "183428598",
+        "is_apartmentless": true,
+        "eligibility_confirmed": true,
+        "certificate_type": "זכאות לדיור בהישג יד",
+        "stamp": "חותמת רשמית — מלג\"ם",
+        "notes": "המבקשת מאושרת כחסרת דירה. תושבת תל אביב-יפו מעל 5 שנים."
+      }
+    },
+    {
+      "first_name": "Eitan",
+      "last_name": "Friedman",
+      "id_number": "156816845",
+      "phone": "0541234508",
+      "email": "eitan.friedman08@gmail.com",
+      "priority": "YOUNG_COUPLE",
+      "eligibility_certificate": {
+        "certificate_number": "EL-2025-714553",
+        "issuing_authority": "מלג\"ם — המרכז לבחינת זכאות לדיור בהישג יד",
+        "issue_date": "2026-02-14",
+        "valid_until": "2027-02-14",
+        "applicant_name_he": "איתן פרידמן",
+        "applicant_name_en": "Eitan Friedman",
+        "id_number": "156816845",
+        "is_apartmentless": true,
+        "eligibility_confirmed": true,
+        "certificate_type": "זכאות לדיור בהישג יד — זוג צעיר",
+        "stamp": "חותמת רשמית — מלג\"ם",
+        "notes": "המבקש ובת זוגו מאושרים כחסרי דירה."
+      }
+    },
+    {
+      "first_name": "Lior",
+      "last_name": "Shapiro",
+      "id_number": "925134942",
+      "phone": "0551234509",
+      "email": "lior.shapiro09@gmail.com",
+      "priority": "MILITARY_RESERVES",
+      "eligibility_certificate": {
+        "certificate_number": "EL-2025-819007",
+        "issuing_authority": "מלג\"ם — המרכז לבחינת זכאות לדיור בהישג יד",
+        "issue_date": "2025-08-25",
+        "valid_until": "2026-08-25",
+        "applicant_name_he": "ליאור שפירו",
+        "applicant_name_en": "Lior Shapiro",
+        "id_number": "925134942",
+        "is_apartmentless": true,
+        "eligibility_confirmed": true,
+        "certificate_type": "זכאות לדיור בהישג יד — מילואים",
+        "stamp": "חותמת רשמית — מלג\"ם",
+        "notes": "המבקש מאושר כחסר דירה. בעל תעודת מילואים פעיל."
+      }
+    },
+    {
+      "first_name": "Dana",
+      "last_name": "Goldstein",
+      "id_number": "216154153",
+      "phone": "0561234510",
+      "email": "dana.goldstein10@gmail.com",
+      "priority": "STANDARD",
+      "eligibility_certificate": {
+        "certificate_number": "EL-2025-923441",
+        "issuing_authority": "מלג\"ם — המרכז לבחינת זכאות לדיור בהישג יד",
+        "issue_date": "2025-09-18",
+        "valid_until": "2026-09-18",
+        "applicant_name_he": "דנה גולדשטיין",
+        "applicant_name_en": "Dana Goldstein",
+        "id_number": "216154153",
+        "is_apartmentless": true,
+        "eligibility_confirmed": true,
+        "certificate_type": "זכאות לדיור בהישג יד",
+        "stamp": "חותמת רשמית — מלג\"ם",
+        "notes": "המבקשת מאושרת כחסרת דירה."
+      }
+    }
+  ],
+  "invalid_test_cases": [
+    {
+      "_comment": "Expired certificate — should fail form_date_valid check",
+      "id_number": "846578318",
+      "first_name": "Noa",
+      "last_name": "Ben-David",
+      "eligibility_certificate": {
+        "certificate_number": "EL-2023-001234",
+        "issue_date": "2023-01-10",
+        "valid_until": "2024-01-10",
+        "is_apartmentless": true,
+        "eligibility_confirmed": true,
+        "stamp": "חותמת רשמית — מלג\"ם",
+        "notes": "EXPIRED — for negative testing only"
+      }
+    },
+    {
+      "_comment": "No stamp — should fail has_proper_stamp check",
+      "id_number": "715535753",
+      "first_name": "Gal",
+      "last_name": "Katz",
+      "eligibility_certificate": {
+        "certificate_number": "EL-2025-888001",
+        "issue_date": "2025-06-01",
+        "valid_until": "2026-06-01",
+        "is_apartmentless": true,
+        "eligibility_confirmed": true,
+        "stamp": null,
+        "notes": "NO STAMP — for negative testing only"
+      }
+    },
+    {
+      "_comment": "Name mismatch — should fail name_matches_card check",
+      "id_number": "107612236",
+      "first_name": "Rotem",
+      "last_name": "Azulay",
+      "registered_as": "Roni Azulay",
+      "eligibility_certificate": {
+        "certificate_number": "EL-2025-777002",
+        "issue_date": "2025-07-01",
+        "valid_until": "2026-07-01",
+        "applicant_name_en": "Rotem Azulay",
+        "is_apartmentless": true,
+        "stamp": "חותמת רשמית — מלג\"ם",
+        "notes": "NAME MISMATCH — for negative testing only"
+      }
+    }
+  ]
+}
